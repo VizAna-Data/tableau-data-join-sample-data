@@ -1,6 +1,6 @@
 # README
 
-この記事で使った Excel データ **`ECshop_sample_join.xlsx`** を公開しています。
+[この記事](https://vizana-data.com/blog/tableau-data-join)で使った Excel データ **`ECshop_sample_join.xlsx`** を公開しています。
 
 ---
 
@@ -33,7 +33,10 @@
 - **引用するときは**
     
     > 株式会社VizAna Data (2025). 『ECshop サンプルデータ』GitHub, https://github.com/VizAna-Data/tableau-data-join-sample-data
-    > 
+    >
+
+- **変更した場合は表示してください**
+改変した場合は、その旨（例：列名変更・欠損補完など）を明示してください。
 
 ---
 
